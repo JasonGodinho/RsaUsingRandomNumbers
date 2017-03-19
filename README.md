@@ -16,12 +16,13 @@ Steps:
 
 Sample Output:
 
-Retrieving a list of random numbers from Random.org for calculating p and q
-p: 29
-q: 11
-n: 319
-Retrieving a list of random numbers from Random.org for calculating e
-e: 129
-d: 183
-Public Key:  (319, 129)
-Private Key: (319, 183)
+Retrieving a list of random numbers from Random.org for calculating p and q:
+
+-p: 29
+-q: 11
+-n: 319
+-Retrieving a list of random numbers from Random.org for calculating e
+-e: 129
+-d: 183
+-Public Key:  (319, 129)
+-Private Key: (319, 183)
